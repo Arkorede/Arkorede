@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arkorede
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m a Front-end Developer
+- 🌱 I’m currently looking for a Job opportunity
 - 💞️ I’m looking forward to collaborate on Github
 - 📫 Reach me on israelashaolu2000@gmail.com
 
